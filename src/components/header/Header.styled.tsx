@@ -2,8 +2,7 @@ import styled from 'styled-components';
 
 export const HeaderContainer = styled.div`
   display: grid;
-  grid-template-columns: 1fr 4fr;
-  column-gap: 20px;
-  box-shadow: 0px 8px 10px -9px rgba(66, 68, 90, 1);
   padding: 15px;
+  background: #1a1a1a;
+  height: 50rem;
 `;
